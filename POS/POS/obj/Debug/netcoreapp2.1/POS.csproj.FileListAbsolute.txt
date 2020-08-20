@@ -1,0 +1,230 @@
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.deps.json
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.runtimeconfig.json
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.runtimeconfig.dev.json
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.dll
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.pdb
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.Views.dll
+D:\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.Views.pdb
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorAssemblyInfo.cache
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorAssemblyInfo.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.AssemblyInfoInputs.cache
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.AssemblyInfo.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.TagHelpers.input.cache
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.TagHelpers.output.cache
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorCoreGenerate.cache
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Demo.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\OrderCreate.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\OrderDetailsEdit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\PoDetailsList.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\PoList.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\PurchaseByPO.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\AllViewList.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ShowCustomer.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\SubCategory\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\SubCategory\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\SubCategory\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\AddBar.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\CreateA.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\MultiCreate.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Details.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Create.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Delete.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Edit.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Index.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorTargetAssemblyInfo.cache
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorTargetAssemblyInfo.cs
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.Views.pdb
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.dll
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.pdb
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.csproj.CopyComplete
+D:\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.csprojAssemblyReference.cache
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.deps.json
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.runtimeconfig.json
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.runtimeconfig.dev.json
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.dll
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.pdb
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.Views.dll
+F:\All Projects\WORK\Pos2\POS\POS\bin\Debug\netcoreapp2.1\POS.Views.pdb
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.csprojAssemblyReference.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.csproj.CoreCompileInputs.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorAssemblyInfo.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorAssemblyInfo.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.AssemblyInfoInputs.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.AssemblyInfo.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.TagHelpers.input.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.TagHelpers.output.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorCoreGenerate.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\BrandModel\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Brand\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Company\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\ContactPersons\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Customer\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Dept\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Demo.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Packs\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Products\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\OrderCreate.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\OrderDetailsEdit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\PoDetailsList.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\PoList.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\PurchaseOrder\PurchaseByPO.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\AllViewList.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Purchase\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sales\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\ShowCustomer.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginLayout.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_LoginPartial.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\SubCategory\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\SubCategory\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\SubCategory\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Sup\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\AddBar.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\CreateA.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestChilds\MultiCreate.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Details.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\TestParents\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Create.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Delete.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Edit.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\Unit\Index.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorTargetAssemblyInfo.cache
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.RazorTargetAssemblyInfo.cs
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.Views.pdb
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.dll
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.pdb
+F:\All Projects\WORK\Pos2\POS\POS\obj\Debug\netcoreapp2.1\POS.csproj.CopyComplete
